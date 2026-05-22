@@ -4,6 +4,7 @@ A full-stack AI chatbot web application built with Flask and Google Gemini AI, f
 
 ✨ Features
 💬 Intelligent AI chat powered by Google Gemini
+
 🧠 Persistent conversation memory using SQLite
 🎙️ Voice responses using Google Text-to-Speech (gTTS)
 🔄 Offline fallback chatbot when API is unavailable
