@@ -44,37 +44,6 @@ Frontend: HTML templates (Jinja2)
 
 Environment Management: python-dotenv
 
-📁 Project Structure
-your-project/
-│── app.py
-│── requirements.txt
-│── .env
-│── chat_history.db
-│── chatlog.txt
-│
-├── templates/
-│     └── index.html
-│
-└── static/ (optional for CSS/JS)
-
-⚙️ Installation
-
-# Clone repository
-
-git clone https://github.com/yourusername/yourrepo.git
-
-# Enter project folder
-
-cd yourrepo
-
-# Install dependencies
-
-pip install -r requirements.txt
-
-# Run app
-
-python app.py
-
 🔐 Environment Variables
 
 
