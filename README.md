@@ -47,11 +47,14 @@ Environment Management: python-dotenv
 🔐 Environment Variables
 
 
+
 Create a .env file in root directory:
 
 GEMINI_API_KEY=your_gemini_api_key
 
 FLASK_SECRET_KEY=your_secret_key
+
+
 
 🚀 Deployment (Render / Railway)
 
