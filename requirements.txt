@@ -1,0 +1,4 @@
+Flask==3.0.3
+google-generativeai
+gTTS==2.5.1
+python-dotenv==1.0.1
